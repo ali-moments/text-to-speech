@@ -35,5 +35,8 @@ python3 textfile_to_speech.py
 
 ## Credits
 Ali-AAA
+[![Telegram](https://img.shields.io/static/v1.svg?label=Telegram&message=@happy_c0d3r&color=grey&logo=telegram&labelColor=0088ff&style=social)](https://t.me/happy_c0d3r)
+[![Instagram](https://img.shields.io/badge/Instagram-follow-0088ff.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ali_aaa_3351/)
 
 ## License
+![License](https://img.shields.io/github/license/ali-moments/text-to-speech.git)
