@@ -39,4 +39,4 @@ Ali-AAA
 [![Instagram](https://img.shields.io/badge/Instagram-follow-0088ff.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ali_aaa_3351/)
 
 ## License
-![License](https://img.shields.io/github/license/ali-moments/text-to-speech.git)
+![License](https://img.shields.io/github/license/ali-moments/text-to-speech)
