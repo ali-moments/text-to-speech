@@ -26,7 +26,7 @@ python text_to_speech.py
 ```
 or write your text in a text file and save it as test.txt then run this one:
 ```bash
-python3 textfile_to_speech.py
+python textfile_to_speech.py
 ```
 
 ## ScreenShot
